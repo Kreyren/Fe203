@@ -5,6 +5,9 @@ This repo contains my rust exercises.
   <img src="http://www.onlineteachinghub.com/wp-content/uploads/2019/07/Rust-Logo.png"/>
 </p>
 
+### Learn
+https://www.rust-lang.org/learn
+
 ### Usage
 ```
 $ rustc filename.rs
