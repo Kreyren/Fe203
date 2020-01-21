@@ -6,8 +6,9 @@ This repo contains my rust exercises.
 </p>
 
 ### Usage
-```$ rustc filename.rs
-`$ ./filename
+```
+$ rustc filename.rs
+$ ./filename
 ```
 ### License :scroll: 
 see the file `LICENSE` for more info.
